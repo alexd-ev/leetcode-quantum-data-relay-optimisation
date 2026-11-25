@@ -23,9 +23,9 @@ python3 main.py
 leetcode-quantum-data-relay-optimisation/
 ├── .gitignore                                  - Ignore Python cache files
 ├── LICENSE                                     - GPL-3.0 licence
-└── README.md                                   - Documentation
+├── README.md                                   - Documentation
 ├── main.py                                     - Example input entrypoint
-├── quantum_data_relay.py                       - Optimise relay logic
+└── quantum_data_relay.py                       - Optimise relay logic
 ```
 
 # Author
