@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 from quantum_data_relay import optimise_relay
 
