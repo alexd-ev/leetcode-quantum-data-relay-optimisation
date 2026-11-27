@@ -14,8 +14,15 @@ Return the maximum total compression value you can achieve across the `master_st
 
 ## Technical Specification
 To run the code locally, [Python](https://www.python.org/about/) is required. Run this command in a terminal to call the Python interpreter:
+
+### macOS/Linux
 ```bash
 python3 main.py
+```
+
+### Windows
+```bash
+python main.py
 ```
 
 ## Project Structure
